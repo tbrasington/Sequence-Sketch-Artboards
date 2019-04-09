@@ -1,0 +1,26 @@
+{
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Sequence Artboards",
+      "identifier": "sequence-artboard-names.my-command-identifier",
+      "script": "my-command.js"
+    }
+  ],
+  "menu": {
+    "title": "Sequence Artboard Names",
+    "items": [
+      "sequence-artboard-names.my-command-identifier"
+    ]
+  },
+  "version": "0.1.0",
+  "description": "Simple sequencing of all artboards within a Sketch Document",
+  "name": "Sequence Artboard Names",
+  "identifier": "Sequence Artboard Names",
+  "disableCocoaScriptPreprocessor": true,
+  "appcast": "https://raw.githubusercontent.com//master/.appcast.xml",
+  "author": "Thomas Brasington",
+  "authorEmail": "tbrasington@gmail.com"
+}

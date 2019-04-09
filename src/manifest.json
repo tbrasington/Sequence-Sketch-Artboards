@@ -1,0 +1,16 @@
+{
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Sequence Artboards",
+      "identifier": "sequence-artboard-names.my-command-identifier",
+      "script": "./my-command.js"
+    }
+  ],
+  "menu": {
+    "title": "Sequence Artboard Names",
+    "items": ["sequence-artboard-names.my-command-identifier"]
+  }
+}
