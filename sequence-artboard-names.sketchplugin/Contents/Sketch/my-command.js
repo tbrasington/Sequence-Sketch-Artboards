@@ -146,7 +146,7 @@ function sequenceLayers(reverseLayers) {
 
       var re = /(\d)*-/i;
       var modifiedName = artboard.name.replace(re, '');
-      artboard.name = numberString + "-" + modifiedName;
+      artboard.name = modifiedName;
       count++;
     });
   });
