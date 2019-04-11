@@ -15,12 +15,12 @@
       "sequence-artboard-names.my-command-identifier"
     ]
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple sequencing of all artboards within a Sketch Document",
   "name": "Sequence Artboard Names",
   "identifier": "Sequence Artboard Names",
   "disableCocoaScriptPreprocessor": true,
-  "appcast": "https://raw.githubusercontent.com//master/.appcast.xml",
+  "appcast": "https://raw.githubusercontent.com/tbrasington/Sequence-Sketch-Artboards/master/.appcast.xml",
   "author": "Thomas Brasington",
   "authorEmail": "tbrasington@gmail.com"
 }
