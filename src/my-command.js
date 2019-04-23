@@ -56,7 +56,7 @@ function sequenceLayers(reverseLayers){
       var re = /(\d)*-/i;
       var modifiedName = artboard.name.replace(re,'');
 
-      artboard.name =  modifiedName;
+      artboard.name =  numberString + "-" +  modifiedName;
       count++;
     });
 
