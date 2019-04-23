@@ -3,7 +3,7 @@
   "description": "Simple sequencing of all artboards within a Sketch Document",
   "license": "MIT",
   "repository": "https://github.com/tbrasington/Sequence-Sketch-Artboards",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "engines": {
     "sketch": ">=49.0"
   },
