@@ -1,7 +1,10 @@
 {
   "compatibleVersion": 3,
   "bundleVersion": 1,
-  "icon": "icon.png",
+  "icon": "icon.png", 
+  "name": "Sequence Artboard Names",
+  "description": "Sequence your Sketch artboards through your entire document.",
+ 
   "commands": [
     {
       "name": "Sequence Artboards",
