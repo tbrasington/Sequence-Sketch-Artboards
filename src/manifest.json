@@ -10,7 +10,7 @@
     }
   ],
   "menu": {
-    "title": "Sequence Artboard Names",
+    "isRoot": true,
     "items": ["sequence-artboard-names.my-command-identifier"]
   }
 }
