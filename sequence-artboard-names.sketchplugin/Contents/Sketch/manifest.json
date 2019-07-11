@@ -2,6 +2,8 @@
   "compatibleVersion": 3,
   "bundleVersion": 1,
   "icon": "icon.png",
+  "name": "Sequence Artboard Names",
+  "description": "Sequence your Sketch artboards through your entire document.",
   "commands": [
     {
       "name": "Sequence Artboards",
@@ -15,9 +17,7 @@
       "sequence-artboard-names.my-command-identifier"
     ]
   },
-  "version": "0.1.3",
-  "description": "Simple sequencing of all artboards within a Sketch Document",
-  "name": "Sequence Artboard Names",
+  "version": "0.1.4",
   "identifier": "Sequence Artboard Names",
   "disableCocoaScriptPreprocessor": true,
   "appcast": "https://raw.githubusercontent.com/tbrasington/Sequence-Sketch-Artboards/master/.appcast.xml",
